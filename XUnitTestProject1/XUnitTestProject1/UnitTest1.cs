@@ -5,29 +5,27 @@ namespace XUnitTestProject1
 {
     public class UnitTest1
     {
+        const string sumText = "ABC";
         [Fact]
-        public void GivenSumText_Whendecoding_returnReverseText()
+        public void GivenSumTest_WhenDecoding_ReturnReverseText()
         {
-            const string SumText = "abc";
-            var result = Encode(SumText);
-            const string ReverseText = "cba";
-            Assert.Equal(ReverseText, result);
+
+            Assert.Equal(ReverseText("CBA"), sumText);
 
         }
 
-        private static string Encode(string SumText)
-        {
-            return StringHelper.ReverseString(SumText);
-        }
-    }
 
-    static class StringHelper
-    {
-        public static string ReverseString(string myStr)
+        public string ReverseText(string text)
         {
-            char[] myArr = myStr.ToCharArray();
-            Array.Reverse(myArr);
-            return new string(myArr);
+            char[] cArray = text.ToCharArray();
+            string reverse = String.Empty;
+            for (int i = cArray.Length - 1; i > -1; i--)
+            {
+                reverse += cArray[i];
+            }
+            return reverse;
         }
-    }
-}
+
+
+    }       
+ }

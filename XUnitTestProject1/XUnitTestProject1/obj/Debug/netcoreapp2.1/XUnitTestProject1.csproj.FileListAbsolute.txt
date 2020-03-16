@@ -12,3 +12,16 @@ C:\temp\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestPro
 C:\temp\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
 C:\temp\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
 C:\temp\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\WRM\OneDrive - FRG\Desktop\Mantaneng\LCSWorkshop\XUnitTestProject1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.pdb
